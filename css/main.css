@@ -16,3 +16,16 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#cabecera{
+    text-align: center;
+    font-size: 30px;
+    color: aqua;
+    font-weight: 900;
+    background-color: black;
+}
+#cabecera span{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
