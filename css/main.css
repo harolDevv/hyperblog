@@ -30,10 +30,9 @@ body{
     font-size: 15px;
     color: rgb(255, 255, 255);
 }
-<<<<<<< HEAD
-#cabecera .logo{
-    width: 30px;
-=======
+#cabecera .logo {
+    width: 20px;
+}
 
 #container #footer{
     color: rgb(255, 255, 255);
@@ -46,5 +45,4 @@ body{
 }
 #container #footer p{
     margin: 0px;
->>>>>>> footer
 }
