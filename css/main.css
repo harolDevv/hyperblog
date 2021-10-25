@@ -2,6 +2,7 @@ body{
     text-align: left;
     font-family: "arial", Courier, monospace;
     color:#333; 
+    background-color: rgb(39, 39, 58);
 }
 
 #container{
@@ -10,6 +11,7 @@ body{
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: aliceblue;
 
 }
 
@@ -28,4 +30,7 @@ body{
     text-align: center;
     font-size: 15px;
     color: rgb(255, 255, 255);
+}
+#cabecera .logo{
+    width: 30px;
 }
