@@ -2,8 +2,14 @@ Esta es la historia de fredy vega ajajaja
 
 mañana nos enfocaremos en su vida laboral
 
+<<<<<<< HEAD
 
 
 Master1
 
 MAster 2
+=======
+Master1
+
+Experimento1
+>>>>>>> 20137e4 (Exeriemtno1)
