@@ -12,4 +12,9 @@ MAster 2
 Master1
 
 Experimento1
+<<<<<<< HEAD
 >>>>>>> 20137e4 (Exeriemtno1)
+=======
+
+Experimento2
+>>>>>>> 6581681 (Exeriemtno2)
