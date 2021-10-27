@@ -6,5 +6,6 @@ aprendimos:
 <li>muchas cosas</li>
 <li>muchas cosas</li>
 <li>creado por el increible platzi team</li>
-<li>Incluye ejemplos en windows, linux y mac/li>
+<li>Incluye ejemplos en windows, linux y mac</li>
+<li>disponible para todas las edades</li>
 </ul>
